@@ -1,1 +1,1 @@
-# Sticky-Notes-Desktop-Application-C-
+# Sticky-Notes-Desktop-Application-C#
